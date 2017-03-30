@@ -47,8 +47,6 @@ Once you have logged in you may view the schema.
 
 ![Security Manager](images/OrientDB_Security_Manager.PNG)
 
-See also http://wiki.esecurity.net:8090/display/ARCH/Deploy+OrientDB+to+Docker+Container.
-
 ### Querying OrientDB
 
 * Binary
